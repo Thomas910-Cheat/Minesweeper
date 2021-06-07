@@ -6,7 +6,7 @@ import os
 import sys
 
 root = tk.Tk()
-root.title("Minesweep_Kolebski_Stand:30.05.2021")
+root.title("Minesweep_Kolebski_Stand:07.06.2021")
 
 #---------------------------------------------------------------------------
 #Hier sind die Einstellungen:
